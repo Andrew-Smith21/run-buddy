@@ -323,6 +323,12 @@ button {
   bottom: 0;
 }
 
+.contact-form {
+
+  display: inline-block;
+  text-align: top;
+}
+
 .contact-info-2 h3 {
   color: #fce138;
   font-size: 32px;
